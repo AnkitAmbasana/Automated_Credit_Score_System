@@ -27,7 +27,7 @@ This tool provides both batch processing for large datasets and an interactive U
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - **High-Recall Default Prediction**: Optimized to minimize false negatives on defaulters.
 - **Credit Score Mapping**: Customizable scoring curve following industry norms.
@@ -40,6 +40,9 @@ This tool provides both batch processing for large datasets and an interactive U
 - **Interactive Streamlit App**: Instant single-user scoring with probability plots.
 
 ---
+
+## 🚀 Launch App
+https://credit-score-system.streamlit.app/
 
 ## 📁 Project Structure
 
